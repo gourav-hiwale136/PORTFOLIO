@@ -21,8 +21,7 @@ const Contact = () => {
               <Mail className="w-5 h-5 text-teal-400" />{" "}
               <a
                 href="mailto:your-email@gmail.com"
-                className="underline hover:text-teal-400"
-              >
+                className="underline hover:text-teal-400">
                 gauravhiwale136@gmail.com
               </a>
             </p>

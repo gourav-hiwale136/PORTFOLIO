@@ -15,7 +15,7 @@ const Hero = () => {
         className="md:w-1/2 space-y-6"
       >
         <h1 className="text-3xl md:text-5xl font-bold text-teal-400">
-          Hi, I’m Gaurav
+          Hi, I’m Gourav
         </h1>
         <p className="text-lg md:text-xl text-gray-300 max-w-lg">
           Full Stack Web Developer. I build interactive and scalable web
