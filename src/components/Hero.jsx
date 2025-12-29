@@ -19,7 +19,7 @@ const Hero = () => {
         </h1>
         <p className="text-lg md:text-xl text-gray-300 max-w-lg">
           Full Stack Web Developer. I build interactive and scalable web
-          applications using React, Node.js, and MongoDB.
+          applications using React, Node.js, Express & MongoDB.
         </p>
         <a
           href="#projects"
@@ -37,7 +37,7 @@ const Hero = () => {
         transition={{ duration: 1 }}
         className="md:w-1/2 relative mt-10 md:mt-0 flex justify-center"
       >
-        <div className="w-48 md:w-96 h-48 md:h-96 rounded-full bg-gradient-to-br from-teal-400 via-indigo-500 to-purple-500 opacity-70 animate-bounce" />
+        <div className="w-48 md:w-96 h-48 md:h-96 rounded-full bg-gradient-to-br from-teal-400 via-indigo-500 to-purple-500 opacity-70 animate-bounce [animation-duration:10s]" />
       </motion.div>
     </section>
   );
