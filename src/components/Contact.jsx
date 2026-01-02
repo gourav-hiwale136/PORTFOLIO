@@ -20,21 +20,21 @@ const Contact = () => {
             <p className="flex items-center gap-2 text-gray-300">
               <Mail className="w-5 h-5 text-teal-400" />{" "}
               <a
-                href="mailto:your-email@gmail.com"
+                href=""
                 className="underline hover:text-teal-400">
                 gauravhiwale136@gmail.com
               </a>
             </p>
             <p className="flex items-center gap-2 text-gray-300">
               <Github className="w-5 h-5 text-teal-400" />{" "}
-              <a href="#" className="underline hover:text-teal-400">
-                https://github.com/gourav-hiwale136
+              <a href=" https://github.com/gourav-hiwale136" className="underline hover:text-teal-400">
+               Github
               </a>
             </p>
             <p className="flex items-center gap-2 text-gray-300">
               <Linkedin className="w-5 h-5 text-teal-400" />{" "}
-              <a href="#" className="underline hover:text-teal-400">
-                linkedin.com/in/Gourav Hiwale
+              <a href="https://www.linkedin.com/in/gourav-hiwale-47688a263/" className="underline hover:text-teal-400">
+                LinkedIn
               </a>
             </p>
           </div>
